@@ -1,1 +1,2 @@
-# 2D_Digital_Compositing
+# 2D Digital Compositing
+## Week01 Assignment
