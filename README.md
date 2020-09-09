@@ -17,7 +17,7 @@
 
 <이미지1> 2학년 2학기 작업물(2017)
 
-링크<sup>1)</sup> : [Google](https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing)
+개인작업물 링크<sup>1)</sup> : [Google](https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing)
 * * *
 
 #### 프로그램(Tool)에 대한 이해도
