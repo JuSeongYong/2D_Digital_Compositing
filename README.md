@@ -1,6 +1,7 @@
 # 2D Digital Compositing
 ## Week01 Assignment
 ### 간단한 소개 및 수업에 대한 리서치
+
 * 간단한 소개
 <pre>
 <code>
