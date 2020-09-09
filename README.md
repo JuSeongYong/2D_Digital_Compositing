@@ -13,7 +13,7 @@
 
 * 개인작업물
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/outdoor_lighting.jpeg)
 
 링크<sup>1)</sup> : [Google](https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing)
 * * *
