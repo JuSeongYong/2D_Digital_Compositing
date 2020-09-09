@@ -7,7 +7,8 @@
 <code>
 - 영상애니메이션 전공 3학년 주성용
 - CG분야에 관심이 많아 졸업작품을 3D애니메이션으로 제작할 예정
-- 내가 이때까지 한 작업물 : https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing
+  - 내가 이때까지 한 작업물 : https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing
+- 2D 디지털합성 수업을 통해 앞으로의 3D작업에 많은 도움을 얻어가려 함
 </code>
 </pre>
 
