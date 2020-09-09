@@ -1,4 +1,5 @@
 # 2D Digital Compositing
 ## Week01 Assignment
-*abc
-  *abc
+* 빨강
+  * 녹색
+    * 파랑
