@@ -1,7 +1,7 @@
 # 2D Digital Compositing
 ## Week01 Assignment
-wowo:
+This is a normal paragraph:
 
-  asdf
-  
-asdf
+    This is a code block.
+    
+end code block.
