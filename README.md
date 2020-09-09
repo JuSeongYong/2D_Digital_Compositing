@@ -8,3 +8,14 @@
 * 수업에 대한 리서치
 
   - ㅁㅇ라ㅓㅁㄴ;ㅣㅇ런마ㅣ
+
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, Honeymon");
+  }
+
+}
+</code>
+</pre>
