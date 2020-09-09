@@ -6,6 +6,8 @@
 <pre>
 <code>
 - 영상애니메이션 전공 3학년 주성용
+- CG분야에 관심이 많아 졸업작품을 3D애니메이션으로 제작할 예정
+- * 외부링크: <https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing>
 </code>
 </pre>
 
