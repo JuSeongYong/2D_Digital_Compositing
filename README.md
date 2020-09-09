@@ -12,7 +12,9 @@
 </pre>
 
 * 개인작업물
-https://drive.google.com/file/d/1c7kt08N3mjIFVm6CujNwdsi7db9jgqQa/view?usp=sharing
+
+!(https://drive.google.com/file/d/1c7kt08N3mjIFVm6CujNwdsi7db9jgqQa/view?usp=sharing)
+
 링크<sup>1)</sup> : [Google](https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing)
 * * *
 
