@@ -26,7 +26,7 @@
 | ------------- |:-------------:| -----:|
 | 3D MAYA       | 3년           | 중상 |
 | After effects | 3년           | 중하 |
-| Photoshop     | 4년           | 중   |
-| Nuke          | X             | X    |
+| Photoshop     | 4년           | 중 |
+| Nuke          | X             | X |
 
 <표1> 이 표는 Awesome!!
