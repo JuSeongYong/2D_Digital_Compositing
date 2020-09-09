@@ -19,4 +19,4 @@
 - 영상애니메이션 전공 3학년 주성용
 </code>
 </pre>
-[Google](https://google.com, "google link")
+[Google](https://google.com, "https://drive.google.com/drive/folders/1hBhix38KUthv_qZvR94d4MdOp5Yij9Ue?usp=sharing")
