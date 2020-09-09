@@ -30,4 +30,4 @@
 | Photoshop     | 4년           | 중 |
 | Nuke          | X             | X |
 
-<표1> 이 표는 Awesome!!
+<표1> VFX에 주로 활용하는 툴로 나열하였음.
