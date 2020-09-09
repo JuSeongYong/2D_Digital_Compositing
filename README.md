@@ -20,12 +20,13 @@
 </code>
 </pre>
 
-#### 표 작성 예
+#### 프로그램(Tool)에 대한 활용도
 
-| Tables        | Are           | Awesome!!  |
+| Tools         | 사용해본 햇수  | 활용도 |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| 3D MAYA       | 3년           | 중상 |
+| After effects | 3년           | 중하 |
+| Photoshop     | 4년           | 중   |
+| Nuke          | X             | X    |
 
 <표1> 이 표는 Awesome!!
