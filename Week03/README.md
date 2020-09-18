@@ -64,6 +64,8 @@ Ex.) Masking, Roto brush, Tracking, Planal tracking
 Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
+
+[참조](http://mlab.taik.fi/touch/DCN/DGbackup.html)
 ---------------------
 ### What is Alpha?
 
