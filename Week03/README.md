@@ -91,11 +91,12 @@ Ex.) : NUKE, AE, Photoshop...
 [참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
 
 #### Color(Digital Color)
+- 색의 3요소
 <pre>
 <code>
-- Value : light to dark
-- Saturation : how close to pure is it
-- Hue : red, purple, green, yellow, orange, etc.
+- Value(명도) : light to dark
+- Saturation(채도) : how close to pure is it
+- Hue(색상) : red, purple, green, yellow, orange, etc.
 </code>
 </pre>
 
