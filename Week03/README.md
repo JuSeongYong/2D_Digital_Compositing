@@ -12,4 +12,16 @@
 </code>
 </pre>
 
++ Digital compositing tools
+<pre>
+<code>
+Some of the software tools we'll be discussing include:
+Paint Programs
+Color Correction utilities
+Warping/Morphing Tools
+Matte-Extraction software
+General-purpose compositing packages
+</code>
+</pre>
+
 [Naver](https://terms.naver.com/entry.nhn?docId=1649302&cid=50372&categoryId=50372)
