@@ -35,10 +35,12 @@ Ex.) Masking, Roto brush, Tracking, Planal tracking
 </code>
 </pre>
 
-+ Matte
++ Matte painting
 <pre>
 <code>
-- 
+- 디지털이나 아날로그 회화기법으로 새로운 이미지를 제작하는 기법
+- 카메라로 촬영하기 힘든 장소를 재현하는데 주로 쓰임
+- 디지털 기술 이후로 3D카메라로 2.5차원의 평면을 입체적으로 움직이며 복잡한 작업이 가능해짐
 </code>
 </pre>
 
