@@ -8,7 +8,7 @@
 
     > 연속된 이미지나 합성 이미지를 만들기 위해 적어도 2개 이상의 소스 이미지들을 디지털로 합성하는 것. [Naver](https://terms.naver.com/entry.nhn?docId=1649302&cid=50372&categoryId=50372)
 
-+ Digital Compositing
+#### Digital Compositing
 <pre>
 <code>
 - VFX Pipeline(post production)의 마무리 단계
@@ -117,3 +117,7 @@ Ex.) : NUKE, AE, Photoshop...
  </pre>
  [감법혼색과 가법혼색](https://blog.naver.com/01194508303/70072410087)
  ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/%EA%B0%90%EB%B2%95%ED%98%BC%EC%83%89%EA%B3%BC%20%EA%B0%80%EB%B2%95%ED%98%BC%EC%83%89.jpg)
+ 
+ #### Why Photoshop shows transparency as gray and white checker?
+ 
+ [그에 대한 답변](https://openphotographyforums.com/forums/threads/photoshop-the-light-gray-checkerboard.14116/)
