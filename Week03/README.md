@@ -80,4 +80,8 @@ Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
 
+
+
+[premultipied Alpha](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Premultiplied%20alpha.png)
+
 [참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
