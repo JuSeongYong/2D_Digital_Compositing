@@ -115,5 +115,5 @@ Ex.) : NUKE, AE, Photoshop...
 
  </code>
  </pre>
- [감법혼색과 가산혼색](https://blog.naver.com/01194508303/70072410087)
+ [감법혼색과 가법혼색](https://blog.naver.com/01194508303/70072410087)
  ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/%EA%B0%90%EB%B2%95%ED%98%BC%EC%83%89%EA%B3%BC%20%EA%B0%80%EB%B2%95%ED%98%BC%EC%83%89.jpg)
