@@ -1,3 +1,3 @@
 # 2D_Digital_Compositing
-## Week 03 Assignment
+## Week 02 Assignment
 ### What is digital compositing?
