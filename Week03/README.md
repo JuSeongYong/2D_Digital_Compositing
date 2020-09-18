@@ -118,6 +118,7 @@ Ex.) : NUKE, AE, Photoshop...
  [감법혼색과 가법혼색](https://blog.naver.com/01194508303/70072410087)
  ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/%EA%B0%90%EB%B2%95%ED%98%BC%EC%83%89%EA%B3%BC%20%EA%B0%80%EB%B2%95%ED%98%BC%EC%83%89.jpg)
  
+ ----------
  #### Why Photoshop shows transparency as gray and white checker?
  - 시각적인 목적; 아무것도 없는 텅빈 공간을 표현하기 위해 흰색과 회색의 체크를 사용했고, 사용자들한테 메타포로 심어졌다.
 
