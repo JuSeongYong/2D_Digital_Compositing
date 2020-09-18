@@ -11,17 +11,19 @@
 + Digital Compositing
 <pre>
 <code>
-- VFX Pipeline의 마무리
+- VFX Pipeline(post production)의 마무리 단계
 - 여러가지 소스(영상, 이미지, 3D asset..)를 하나의 영상 또는 이미지로 통합하는 과정
 </code>
 </pre>
 
 ![alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/the-vfx-pipeline.jpg)
-+ Digital Compositing에 필요한 요소
++ Chroma Key
 <pre>
 <code>
-- 
-- 
+- 두개의 영상을 합성하는 기술로 두개의 영상 중 상위 레이어의 특정한 색깔을 제거한다.
+- 제거하고 싶은 색깔과 보여주고 싶은 오브젝트의 색깔이 겹치면 오류가 발생한다.
+- 초록과 파랑이 자주 쓰인다.(=사람의 피부와 가장 구별되는 색깔)
+Ex.) Green screen(most common), Blue screen, magic pink
 </code>
 </pre>
 
