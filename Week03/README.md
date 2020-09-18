@@ -16,11 +16,11 @@
 <pre>
 <code>
 Some of the software tools we'll be discussing include:
-Paint Programs
-Color Correction utilities
-Warping/Morphing Tools
-Matte-Extraction software
-General-purpose compositing packages
+- Paint Programs
+- Color Correction utilities
+- Warping/Morphing Tools
+- Matte-Extraction software
+- General-purpose compositing packages
 </code>
 </pre>
 
