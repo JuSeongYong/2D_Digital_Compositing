@@ -120,4 +120,5 @@ Ex.) : NUKE, AE, Photoshop...
  
  #### Why Photoshop shows transparency as gray and white checker?
  - 시각적인 목적; 아무것도 없는 텅빈 공간을 표현하기 위해 흰색과 회색의 체크를 사용했고, 사용자들한테 메타포로 심어졌다.
- [그에 대한 답변-Doug Kerr](https://openphotographyforums.com/forums/threads/photoshop-the-light-gray-checkerboard.14116/)
+
+[참조링크-Doug Kerr](https://openphotographyforums.com/forums/threads/photoshop-the-light-gray-checkerboard.14116/)
