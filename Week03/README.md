@@ -73,9 +73,9 @@ Ex.) : NUKE, AE, Photoshop...
 <pre>
 <code>
 - RGBA(RGB채널에 투명도가 추가됨)에서 A=투명도를 나타냄
-- straight alpha (unassociated alpha; unmatted RGB + alpha) : 
+- straight alpha (unassociated alpha; Non-Premultiplied Alpha; unmatted RGB + alpha) : 
    알파값만이 투명도를 나타내고, RGB는 투명도와 관계없이 빨강, 초록, 파랑의 강도만 표현
-- premultiplied alpha (associated alpha; Non-Premultiplied Alpha; matted RGB + alpha) : 
+- premultiplied alpha (associated alpha; matted RGB + alpha) : 
    RGB에 불투명도를 미리 곱해둔 값; 알파값 없이 RGB만으로도 투명도가 적용된 색상을 얻을 수 있음
 </code>
 </pre>
