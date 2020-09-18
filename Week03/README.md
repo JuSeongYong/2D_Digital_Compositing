@@ -80,6 +80,8 @@ Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
 
+ - Non-Premultiplied Alpha
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Non-Premultiplied%20alpha.png)
 
  - Premultiplied Alpha
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Premultiplied%20alpha.png)
