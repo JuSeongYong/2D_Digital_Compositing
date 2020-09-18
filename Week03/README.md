@@ -15,7 +15,15 @@
 - 여러가지 소스(영상, 이미지, 3D asset..)를 하나의 영상 또는 이미지로 통합하는 과정
 </code>
 </pre>
-+ Digital Compositing
+
++ Digital Compositing에 필요한 요소
+<pre>
+<code>
+- 
+- 
+</code>
+</pre>
+
 + Digital compositing tools
 <pre>
 <code>
