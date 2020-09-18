@@ -65,4 +65,5 @@ Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
 ---------------------
-### 
+### What is Alpha?
+
