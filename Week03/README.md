@@ -4,7 +4,8 @@
 + 사전적 정의
 <pre>
 <code>
-- Digital compositing is the process of digitally assembling multiple images to make a final image,
+- // code
+Link: [Naver][https://terms.naver.com/entry.nhn?docId=1649302&cid=50372&categoryId=50372]Digital compositing is the process of digitally assembling multiple images to make a final image,
   typically for print, motion pictures or screen display. 
   It is the digital analogue of optical film compositing.
   
