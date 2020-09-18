@@ -69,3 +69,6 @@ Ex.) : NUKE, AE, Photoshop...
 ---------------------
 ### What is the Alpha?
 
++ Alpha channel
+
+
