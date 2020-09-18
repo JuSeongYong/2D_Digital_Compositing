@@ -89,3 +89,19 @@ Ex.) : NUKE, AE, Photoshop...
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Premultiplied%20alpha.png)
 
 [참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
+
++ Color(Digital Color)
+<pre>
+<code>
+- Value : light to dark
+- Saturation : how close to pure is it
+- Hue : red, purple, green, yellow, orange, etc.
+</code>
+</pre>
+
+ - Color Models
+ <pre>
+ <code>
+ - 
+ </code>
+ </pre>
