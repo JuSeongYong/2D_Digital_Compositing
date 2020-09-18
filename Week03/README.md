@@ -27,6 +27,21 @@ Ex.) Green screen(most common), Blue screen, magic pink
 </code>
 </pre>
 
++ Rotoscoping
+<pre>
+<code>
+- 상위레이어에 있는 개체 위로 마스크를 움직여 배경과 분리하는 과정
+Ex.) Masking, Roto brush, Tracking, Planal tracking
+</code>
+</pre>
+
++ Matte
+<pre>
+<code>
+- 
+</code>
+</pre>
+
 + Digital compositing tools
 <pre>
 <code>
