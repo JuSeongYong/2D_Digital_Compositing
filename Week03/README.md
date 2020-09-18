@@ -18,12 +18,12 @@
 + Digital compositing tools
 <pre>
 <code>
-Digital compositing tools:
 - Paint Programs
 - Color Correction utilities
 - Warping/Morphing Tools
 - Matte-Extraction software
 - General-purpose compositing packages
+Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
 
