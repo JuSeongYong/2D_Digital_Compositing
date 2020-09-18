@@ -81,9 +81,11 @@ Ex.) : NUKE, AE, Photoshop...
 </pre>
 
  - Non-Premultiplied Alpha
+ 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Non-Premultiplied%20alpha.png)
 
  - Premultiplied Alpha
+ 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week03/Premultiplied%20alpha.png)
 
 [참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
