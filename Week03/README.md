@@ -67,7 +67,7 @@ Ex.) : NUKE, AE, Photoshop...
 [참조링크](http://mlab.taik.fi/touch/DCN/DGbackup.html)
 
 ---------------------
-### What is the Alpha?
+### What is Alpha and color?
 
 + Alpha channel
 <pre>
