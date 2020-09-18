@@ -18,7 +18,7 @@
 + Digital compositing tools
 <pre>
 <code>
-Some of the software tools we'll be discussing include:
+다음의 기능이 포함된 프로그램:
 - Paint Programs
 - Color Correction utilities
 - Warping/Morphing Tools
