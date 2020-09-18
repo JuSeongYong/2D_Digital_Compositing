@@ -70,5 +70,11 @@ Ex.) : NUKE, AE, Photoshop...
 ### What is the Alpha?
 
 + Alpha channel
-
+<pre>
+<code>
+- RGBA(RGB채널에 투명도가 추가됨)에서 A=투명도를 나타냄
+- straight alpha (unassociated alpha; unmatted RGB + alpha)
+- premultiplied alpha (associated alpha; matted RGB + alpha)
+</code>
+</pre>
 
