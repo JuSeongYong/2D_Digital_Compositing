@@ -44,6 +44,15 @@ Ex.) Masking, Roto brush, Tracking, Planal tracking
 </code>
 </pre>
 
++ Digital compositing을 위한 개인 역량과 지식
+<pre>
+<code>
+- 색에 대한 이해도
+- 카메라와 렌즈에 대한 지식
+- 빛(조명)에 대한 지식
+</code>
+</pre>
+
 + Digital compositing tools
 <pre>
 <code>
