@@ -16,6 +16,7 @@
 </code>
 </pre>
 
+![alt](Week03/the-vfx-pipeline.jpg)
 + Digital Compositing에 필요한 요소
 <pre>
 <code>
