@@ -80,3 +80,4 @@ Ex.) : NUKE, AE, Photoshop...
 </code>
 </pre>
 
+[참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
