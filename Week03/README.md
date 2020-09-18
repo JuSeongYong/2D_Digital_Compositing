@@ -69,7 +69,7 @@ Ex.) : NUKE, AE, Photoshop...
 ---------------------
 ### What is Alpha and Color(Digital color)?
 
-+ Alpha channel
+#### Alpha channel
 <pre>
 <code>
 - RGBA(RGB채널에 투명도가 추가됨)에서 A=투명도를 나타냄
@@ -90,7 +90,7 @@ Ex.) : NUKE, AE, Photoshop...
 
 [참조링크](https://www.cgdirector.com/premultiplied-alpha-vs-straight-alpha/)
 
-+ Color(Digital Color)
+#### Color(Digital Color)
 <pre>
 <code>
 - Value : light to dark
