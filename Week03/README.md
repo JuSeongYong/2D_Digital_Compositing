@@ -11,7 +11,8 @@
 + Digital Compositing
 <pre>
 <code>
-VFX Pipeline의 마무리 
+- VFX Pipeline의 마무리
+- 여러가지 소스(영상, 이미지, 3D asset..)를 하나의 영상 또는 이미지로 통합하는 과정
 </code>
 </pre>
 + Digital compositing tools
