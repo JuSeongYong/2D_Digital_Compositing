@@ -24,4 +24,5 @@ Some of the software tools we'll be discussing include:
 </code>
 </pre>
 
+[Wikipedia](https://en.wikipedia.org/wiki/Digital_compositing)
 [Naver](https://terms.naver.com/entry.nhn?docId=1649302&cid=50372&categoryId=50372)
