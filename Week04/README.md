@@ -1,6 +1,11 @@
 # 2D_Digital_Compositing
 ## Week 03 Assignment
 ### What is colorspace?
+<end>
+<code>
+  - Colorspace : 
+</code>
+</end>
 
 -------------
 ### Gamma / Linear workflow
