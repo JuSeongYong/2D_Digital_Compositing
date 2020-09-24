@@ -1,3 +1,12 @@
 # 2D_Digital_Compositing
 ## Week 03 Assignment
-### asdfasdf
+### What is colorspace?
+
+-------------
+### Gamma / Linear workflow
+
+------------
+### What is LUT? Color LookUpTable?
+
+---------------
+### What is Logspace and what is main difference wiht sRGB, why and when we use?
