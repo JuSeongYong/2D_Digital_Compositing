@@ -219,3 +219,10 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 - Log(Logarithmic) color space
 
+<pre>
+<code>
+
+- 로그 색상 곡선을 사용하는 가장 큰 이유는 카메라 센서(또는 film negative)에서 정보의 최대범위를 유지하는 방법이다.
+
+</code>
+</pre>
