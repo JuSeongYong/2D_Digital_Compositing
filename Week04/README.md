@@ -68,6 +68,12 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 - YPbPr : Analog color signal(아날로그 시스템을 위해 디자인된 것)
 - YCbCr : Digital color codes(디지털 비디오에 사용되도록 디자인된 것)
+<pre>
+<code>
+- Y(Luma) : 밝기 / Cb(Chroma blue) : 청색-밝기 / Cr(Chroma red) : 적색-밝기
+- Color정보를 디지털화 시킨 값
+</code>
+</pre>
 
 #### AECS Colorspace
 
