@@ -83,11 +83,9 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 - CG아티스트에게 있어서, ACEScg의 큰 장점은 색상 전체 영역(colour gamut)
 
-- sRGB에 비해 훨씬 많은 색을 사용 가능
-
 [출처](https://blog.naver.com/jygoldturtel/221827788379)
 
-![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/gamut_srgb_vs_acescg-2.png)
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%20(1).jpg)
 
 -------------
 ### Gamma / Linear workflow
