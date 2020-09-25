@@ -163,6 +163,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
   - Linearize 하지 말아야 할 맵 : Bump / Normal / Displacement / Roughness / 흑백 Specular 등 렌더에서 색에 영향이 없는 맵들
 
+[linear workflow 출처](https://frauniemand.tistory.com/8)
+
 ------------
 ### What is LUT? Color LookUpTable?
 
