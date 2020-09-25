@@ -59,6 +59,7 @@ CIE는 국제 조명 위원회(프랑스어: Commission internationale de l'écl
 
 #### YUV
 YUV(YIQ/YCbCr/YPbPr)는 색을 구성하는 방법 중 하나로 밝기(Y)와 청색 색차(U), 적색 색차(V) 정보로 색을 구성
+
 Lab과 마찬가지로 인간이 색을 인식하는 방식으로 구성
 
 -------------
