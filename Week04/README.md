@@ -57,6 +57,7 @@ CIE는 국제 조명 위원회(프랑스어: Commission internationale de l'écl
 
 선형 변환<sup>(2)</sup> : 자료의 분포 모양을 그대로 유지하면서 점수 혹은 측정치를 일정 규칙에 따라 다른 점수 혹은 척도로 바꾸는 것
 
+#### YUV
 
 -------------
 ### Gamma / Linear workflow
