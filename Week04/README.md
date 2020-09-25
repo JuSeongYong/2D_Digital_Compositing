@@ -64,6 +64,11 @@ Lab과 마찬가지로 인간이 색을 인식하는 방식으로 구성
 
 영상 장치가 영상을 만들 때, 빛을 인식하여 RGB를 YUV로 바꿔 주게 되며, YUV의 데이터 양을 줄이고 효율을 유지하기 위해 서브 샘플링을 하여 저장장치에 저장하게 된다.
 
+YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
+
+- YPbPr : Analog color signal(아날로그 시스템을 위해 디자인된 것)
+- YCbCr : Digital color codes(디지털 비디오에 사용되도록 디자인된 것)
+
 #### AECS Colorspace
 
 -------------
