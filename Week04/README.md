@@ -90,6 +90,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 -------------
 ### Gamma / Linear workflow
 
+#### What is Gamma?
+
 ------------
 ### What is LUT? Color LookUpTable?
 
