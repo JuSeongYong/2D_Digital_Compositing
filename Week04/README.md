@@ -48,7 +48,7 @@
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIELUV.png)
 
 균등 색공간 : 동일한 크기로 지각되는 색차가 공간 내의 동일한 거리와 대응하도록 의도한 색공간
-
+선형 변환 : 자료의 분포 모양을 그대로 유지하면서 점수 혹은 측정치를 일정 규칙에 따라 다른 점수 혹은 척도로 바꾸는 것
 
 
 -------------
