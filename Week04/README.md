@@ -17,6 +17,14 @@
 - 자주 쓰이는 색 공간 : RGB색공간, CMYK색공간, HSV색공간, CIE색공간
 </code>
 </pre>
+- RGB색공간
+![Alt]
+- CMYK색공간
+![Alt]
+- HSV색공간
+![Alt]
+-CIE색공간
+![Alt]
 
 -------------
 ### Gamma / Linear workflow
