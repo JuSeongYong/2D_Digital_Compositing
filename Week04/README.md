@@ -182,6 +182,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/1D_LUT_1a-01.jpg)
+
 + 3D LUT
 <pre>
 <code>
@@ -192,6 +194,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 - 현재 우리가 LUT라고 통칭해서 부르고 많이 사용하는 LUT가 바로 3D LUT
 </code>
 </pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/3-01.jpg)
 
 ---------------
 ### What is Logspace and what is main difference wiht sRGB, why and when we use?
