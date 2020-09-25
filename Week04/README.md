@@ -118,7 +118,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 <pre>
 <code>
-- 실제 세상의 빛은 linear로 작용, 우리가 보는 빛의 양은 광원들의 빛의 양을 합친 값이다. 즉, 실제 세상에서는 input이 output과 일정, 동등하다. 이를 linear라고 한다.
+- 실제 세상의 빛은 linear로 작용, 우리가 보는 빛의 양은 광원들의 빛의 양을 합친 값이다. 즉, 실제 세상에서는 input이 output과 일정, 동등하다.
+  이를 linear라고 한다.
 - 하지만 모니터에서는 이와 다르게 아래 그래프처럼 표시한다.
   모니터가 이미지를 표현하기 위해서는 전압이 공급(input)되고, 모니터는 이를 빛의 정도로 환산해서 이미지(output)로 표현한다.
   하지만 컴퓨터 모니터는 우리의 눈이 받아들일 수 있는 빛의 양을 표현할 방법이 없기 때문에 컴퓨터는 눈에 보이는 것과 유사하게 표시한다.
@@ -127,6 +128,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
   그래서 이를 다시 linear로 바로잡기 위해 의도적으로 수치값을 대입한다. 이 수치를 gamma라고 한다.
 </code>
 </pre>
+
+즉, 모니터에서 표현되는 색과 아티스트가 만들려는 이미지의 색을 일치시키기 위한 과정
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.png)
 
