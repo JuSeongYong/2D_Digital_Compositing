@@ -201,3 +201,6 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 ---------------
 ### What is Logspace and what is main difference wiht sRGB, why and when we use?
+
+#### Logspace
+
