@@ -168,5 +168,24 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 ------------
 ### What is LUT? Color LookUpTable?
 
+#### LUT
+
+- LUT(Look-Up Table) : 색상(hue), 채도(saturation), 조도(brightness)를 "수학적으로 정확하게" 조정하여 촬영된 원본 이미지의 RGB값을 새로운 RGB값으로 만들어주는 방법
+                       어떤 자료나 정보를 찾기 위한 목록표
+
+<pre>
+<code>
+
+-  Technical LUTs : 이미지를 하나의 색공간(color space 또는 gamut)에서 다른 색공간으로 옮기기 위해 만들어짐
+   해당 LUT의 최종 목표는 두 가지 다른 시청 환경에서 똑같은 결과물을 만들어내는 것
+
+- Creative LUTs : 크리에이티브 LUT는 다른 소프트웨어에서도 늘 한결같이 LUT가 가진 하나의 룩look을 표현할 수 있게 해줌
+
+- Camera LUTs :  LUT는 technical LUT와 creative LUT를 합친 결과물이라 할 수 있음
+  
+
+</code>
+</pre>
+
 ---------------
 ### What is Logspace and what is main difference wiht sRGB, why and when we use?
