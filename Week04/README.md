@@ -38,12 +38,12 @@
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIE-1931-color-space.jpg)
 
 
-- CIE lab 색공간
+- CIE lab 색공간 : Lab 색 공간은 인간 시각의 길항 이론에 의거하여, CIE XYZ 색 공간을 비선형 변환하여 만들어진 색 공간
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIE-LAB-1976-color-space.png)
 
 
-- CIE luv 색공간
+- CIE luv 색공간 : CIE가 1976년에 정한 균등 색공간의 하나로서 다음의 3차원 직교 좌표를 이용하는 색공간
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIELUV.png)
 
