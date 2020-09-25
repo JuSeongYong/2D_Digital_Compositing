@@ -197,5 +197,7 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/3-01.jpg)
 
+[LUT출처](http://keruluke.com/archived_web/kft/vol4/lookuptable/)
+
 ---------------
 ### What is Logspace and what is main difference wiht sRGB, why and when we use?
