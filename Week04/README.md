@@ -110,6 +110,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/gammacurve.jpg)
 
+그래프에서 보시다시피, 감마값 2.2는 1보다 낮게 깔려 있는데요. 이는 중·저계조 영역에서 출력되는 휘도의 변화가 크지 않지만 고계조로 갈수록 Gray Level에 따른 휘도의 변화가 큼을 의미합니다. 즉, 고계조 영역에서 밝기의 구분이 수월해진다는 것이지요. 만약 감마값이 2.2보다 큰 2.8의 경우, 저계조 영역에서 Gray Level에 따른 휘도의 변화가 거의 나지 않게 되어 이미지가 매우 어둡게 뭉쳐져서 보이게 되겠지요.
+
 [gamma출처](https://news.samsungdisplay.com/1869)
 
 ------------
