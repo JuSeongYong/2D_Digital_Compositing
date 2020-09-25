@@ -17,14 +17,18 @@
 - 자주 쓰이는 색 공간 : RGB색공간, CMYK색공간, HSV색공간, CIE색공간
 </code>
 </pre>
+
 - RGB색공간
-![Alt]
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/200px-RGBCube_b.svg.png)
+
 - CMYK색공간
-![Alt]
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg)
+
 - HSV색공간
-![Alt]
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/200px-HSV_cone.jpg)
+
 -CIE색공간
-![Alt]
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIE-1931-color-space.jpg)
 
 -------------
 ### Gamma / Linear workflow
