@@ -47,6 +47,10 @@
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/CIELUV.png)
 
+균등 색공간 : 동일한 크기로 지각되는 색차가 공간 내의 동일한 거리와 대응하도록 의도한 색공간
+
+
+
 -------------
 ### Gamma / Linear workflow
 
