@@ -77,7 +77,7 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </code>
 </pre>
 
-#### AECS Colorspace
+#### ACES Colorspace
 
 -------------
 ### Gamma / Linear workflow
