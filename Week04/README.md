@@ -116,6 +116,10 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 #### Linear Workflow
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.png)
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/asdf.png)
+
 ------------
 ### What is LUT? Color LookUpTable?
 
