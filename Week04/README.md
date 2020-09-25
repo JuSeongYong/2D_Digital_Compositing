@@ -108,6 +108,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 이를 보완하기 위해 인간의 눈에 최적화시킨 감마값을 맞추는 것이 중요한데요. 그 값이 NTSC(National Television System Committee) 표준 감마값인 2.2입니다.
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/gammacurve.jpg)
+
 [gamma출처](https://news.samsungdisplay.com/1869)
 
 ------------
