@@ -149,6 +149,20 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.png)
 
++ 파일을 저장할 때 8bit, 16bit 두 가지 옵션의 차이
+
+  - 8bit : 파일형식: jpg, bmp, tiff
+           2.2감마커브로 암호화 됨.
+
+  - 16bit : 파일형식: exr, hdr, raw, tiff
+           1.0감마(linear)로 암호화. 더 상세한 데이터를 저장할 수 있다.
+
++ 파일 텍스쳐를 위한 gamma correction
+
+  - Linearize 필요한 맵 : diffuse (color) / 색이 들어간 reflection / refraction /specular 등 렌더에서 색에 영향을 미치는 모든 맵들
+
+  - Linearize 하지 말아야 할 맵 : Bump / Normal / Displacement / Roughness / 흑백 Specular 등 렌더에서 색에 영향이 없는 맵들
+
 ------------
 ### What is LUT? Color LookUpTable?
 
