@@ -77,7 +77,7 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </code>
 </pre>
 
-#### ACES Colorspace
+#### ACES(Academy Color Encoding System) Colorspace
 
 - ACES는 모든 인풋 소스(영화, CG 등)으로부터 색상을 표준화하고, 모든 프로덕션 파이프라인의 단계에서 아티스트들이 일할 수 있도록 하는 미래가 보장되는 작업 환경을 제공하는 색상 시스템을 의미
 
@@ -88,8 +88,6 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 [출처] ACES 한글번역|작성자 육뇽
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/gamut_srgb_vs_acescg-2.png)
-
-
 
 -------------
 ### Gamma / Linear workflow
