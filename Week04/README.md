@@ -115,7 +115,7 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 [gamma출처](https://news.samsungdisplay.com/1869)
 
 #### Linear Workflow
-
+- Linear Workflow
 <pre>
 <code>
 - 실제 세상의 빛은 linear로 작용, 우리가 보는 빛의 양은 광원들의 빛의 양을 합친 값이다. 즉, 실제 세상에서는 input이 output과 일정, 동등하다.
@@ -131,9 +131,23 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 즉, 모니터에서 표현되는 색과 아티스트가 만들려는 이미지의 색을 일치시키기 위한 과정
 
-![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.png)
-
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/asdf.png)
+
+- 3D에서의 Linear Workflow
+
+<pre>
+<code>
+- HDR을 제외한 텍스쳐 이미지들이나 컬러 피커가 스크린에서 바르게 보일 수 있는 이유는 감마값이 미리 적용되어 있기 때문이다.
+  하지만 렌더 엔진들은 linear에서 작용하고 있다.
+  그렇기 때문에 텍스쳐 이미지들의 gamma 수치를 없애지 않고 linear로 작용하는 엔진에서 렌더한다면 감마가 섞인 결과물이 나오게 될 것이다.
+  최종 결과물인 텍스쳐 이미지에는 감마가 두배로 적용이 되는 것이다. 내가 예상했던 이미지와 다른 결과물이 나오게 될 것이다.
+  
+- 해결 방법 : 텍스쳐 이미지들과 컬러피커에서 gamma 수치를 뺀 후 (렌더엔진과 동일한) linear로 렌더, 최종 결과물에서 gamma를 다시 대입한다.
+  linear workflow는 씬 안의 모든 라이트, 텍스쳐, 머터리얼이 렌더할 때 같은 color space에서 존재함을 보장한다.
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0.png)
 
 ------------
 ### What is LUT? Color LookUpTable?
