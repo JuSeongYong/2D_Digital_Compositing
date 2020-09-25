@@ -85,7 +85,7 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 - sRGB에 비해 훨씬 많은 색을 사용 가능
 
-[출처] ACES 한글번역|작성자 육뇽
+[출처](https://blog.naver.com/jygoldturtel/221827788379)
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/gamut_srgb_vs_acescg-2.png)
 
