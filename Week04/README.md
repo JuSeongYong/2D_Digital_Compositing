@@ -104,6 +104,12 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </code>
 </pre>
 
+0 Gray부터 255 Gray까지 단계별로 한 칸씩 각각의 밝기를 지정하고, Gray가 올라갈수록 해당되는 Gray의 휘도가 점점 높아지게 설정을 합니다. 만약, 감마값이 1이라면 Gray Level에 따른 휘도 값이 정비례하게 나타나게 되겠지요. 하지만, 인간의 눈은 어두운 곳의 차이는 잘 구분하지만 밝은 곳의 차이는 잘 구분하지 못하기 때문에 감마값을 1로 정비례하게 설정을 해 놓는다면 높은 Gray로 갈수록 밝은 색을 잘 구분하지 못하게 됩니다.
+
+이를 보완하기 위해 인간의 눈에 최적화시킨 감마값을 맞추는 것이 중요한데요. 그 값이 NTSC(National Television System Committee) 표준 감마값인 2.2입니다.
+
+[gamma출처](https://news.samsungdisplay.com/1869)
+
 ------------
 ### What is LUT? Color LookUpTable?
 
