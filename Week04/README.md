@@ -232,4 +232,4 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </code>
 </pre>
 
-
+![Linear Curve & Log Curve](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/Log-Curve.jpg)
