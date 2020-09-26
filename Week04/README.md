@@ -249,6 +249,8 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 사람의 눈에서는 특정부분이 매우 어둡고 뭉개져서 보이거나 너무 밝게 보인다. 따라서 우리는 색 정보를 좀 더 미적으로 보기 위해 다른 색 공간을 적용해야 하고, 디스플레이와 모니터의 색 값을 표준화해야 한다.
 
+[출처](https://www.rocketstock.com/blog/tips-for-log-color-space-compositing/)
+
 - sRGB Curve
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/sRGB.jpg)
@@ -285,3 +287,5 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 </code>
 </pre>
+
+[출처](https://www.artstation.com/tiberius-viris/blog/3ZBO/color-space-management-srgb-linear-and-log)
