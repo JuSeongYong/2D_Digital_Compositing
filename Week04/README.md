@@ -248,3 +248,17 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 </pre>
 
 사람의 눈에서는 특정부분이 매우 어둡고 뭉개져서 보이거나 너무 밝게 보인다. 따라서 우리는 색 정보를 좀 더 미적으로 보기 위해 다른 색 공간을 적용해야 하고, 디스플레이와 모니터의 색 값을 표준화해야 한다.
+
+- sRGB Curve
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/sRGB.jpg)
+
+<pre>
+<code>
+
+- 컴퓨터 프로세싱에는 Linear가 좋지만, 인간의 눈에 적합하게 Curve를 조정한 것
+
+- 어두운 영역의 경사는 완만해서 어두운 값의 정보는 더 많고, 밝은 영역의 가파른 경사는 밝은 값을 줄여준다.
+
+</code>
+</pre>
