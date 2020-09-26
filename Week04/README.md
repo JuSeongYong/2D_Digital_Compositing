@@ -267,3 +267,21 @@ YUV를 전송방식에 따라 YPbPr과 YCbCr로 나눈다.
 
 </code>
 </pre>
+
+- Log Curve
+
+![Alt}(https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/Week04/images/log.jpg)
+
+<pre>
+<code>
+
+- Log color space를 단순하게 "Achiver(zip또는 rar과 같은)"로 인식하면 편함, 
+  Log color space는 이미지의 흰색과 검은색 영역에 있는 값을 압축하여 정보를 저장하는 데 필요한 공간을 최소화
+  
+- 추가적으로 16bit .tif확장자처럼 관리가 용이한 형식을 이용해 그림을 그릴 수 있다.
+  16bit Log 파일은 클리핑(데이터손실) 없이 32bit Linear형식으로 "unarchive"할 수 있기 때문이다.
+
+- 가장 일반적인 로그 형식 : ARI Log, Cineon Dpx
+
+</code>
+</pre>
