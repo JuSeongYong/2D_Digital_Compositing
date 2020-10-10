@@ -83,6 +83,14 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/2%EC%B0%A8%ED%94%84%EB%A0%88%EC%9D%B4%EB%B0%8D.jpg)
+
+2차 프레이밍의 예시 : 창문을 이용한 피사체를 강조, 피사체의 감정을 드러낸다.
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/2%EC%B0%A8%ED%94%84%EB%A0%88%EC%9D%B4%EB%B0%8D_1.jpg)
+
+2차 프레이밍의 예시 : 손가락을 이용해 인물의 눈에 시선을 집중
+
 ----------------
 #### Linear motif
 
