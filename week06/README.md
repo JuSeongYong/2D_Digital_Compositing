@@ -49,7 +49,14 @@ Center Composition의 예시 : 인물을 화면 중앙으로 배치, 완전히 �
 
 - 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나
 - 캐릭터가 장면의 다른 요소와의 관계를 보여줄 수 있도록 배치하는 방법
-- 두줄은 수평, 두줄은 수직으로 화면을 9분할하여 교차하는 지점에 피사체를 배치한다.
+- 두줄은 수평, 두줄은 수직으로 화면을 9분할하여 교차하는 지점에 주요 피사체를 배치한다.
+- 캐릭터가 극중에서 차지하는 위치를 쉽게 결정하는 방법
 
 </code>
 </pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)
+Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우를 배치함으로써 왼쪽의 여자와 오른쪽의 남자의 극중 위치를 드러냈음
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/352-C02-Shooting-secondary-1.jpg)
+Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 눈을 배치
