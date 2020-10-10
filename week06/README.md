@@ -95,7 +95,7 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-depth-of-field-1024x660-min.jpg)
 
-피사계 
+피사계 심도
 
 ----------------------
 
