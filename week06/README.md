@@ -63,3 +63,10 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우를 �
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/352-C02-Shooting-secondary-1.jpg)
 
 Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 눈을 배치
+
+------------------
+#### Framing
+
+
+[출처1](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level)
+[출처2](https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition)
