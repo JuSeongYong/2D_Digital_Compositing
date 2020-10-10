@@ -81,8 +81,21 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 
 ---------------
 #### Depth
+- Depth of field (피사계 심도)
 
+<pre>
+<code>
 
+- 초점이 선명하게 포착되는 영역 : 물체가 선명하게 나타나는 이미지 영역의 크기
+- 더 많은 물체에 초점을 맞춘다면, 더 넓은 심도를 가지게 될 것
+- 초점을 적게 두면, 심도를 얕게 혹은 좁게 만든다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-depth-of-field-1024x660-min.jpg)
+
+피사계 
 
 ----------------------
 
