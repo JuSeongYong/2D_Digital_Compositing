@@ -37,5 +37,19 @@
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)
 Center Composition의 예시 : 인물의 얼굴이 화면 중앙, 전경으로 배치되고 배경은 블러 처리함으로써 인물에 시선을 집중시킴.
 
+
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%9B%A8%EC%8A%A4%EC%97%94%EB%8D%94%EC%8A%A8%20%EC%84%BC%ED%84%B0%EC%BB%B4%ED%8D%BC%EC%A7%80%EC%85%98.jpg)
 Center Composition의 예시 : 인물을 화면 중앙으로 배치, 완전히 대칭적인 장소를 만들어내 관객들은 순간적으로 압도감을 느끼게 된다. 웨스 앤더슨의 작품이 대표적으로 활용하는 방법.
+
+------------------
+#### Rule of third
+
+<pre>
+<code>
+
+- 영화나 사진에 사용되는 가장 일반적인 카메라 프레임 기법 중 하나
+- 캐릭터가 장면의 다른 요소와의 관계를 보여줄 수 있도록 배치하는 방법
+- 두줄은 수평, 두줄은 수직으로 화면을 9분할하여 교차하는 지점에 피사체를 배치한다.
+
+</code>
+</pre>
