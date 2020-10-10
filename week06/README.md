@@ -34,7 +34,7 @@
 </code>
 </pre>
 
-[!Center composition](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)
+[!Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)
 
-[!Center composition](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%9B%A8%EC%8A%A4%EC%97%94%EB%8D%94%EC%8A%A8%20%EC%84%BC%ED%84%B0%EC%BB%B4%ED%8D%BC%EC%A7%80%EC%85%98.jpg)
+[!Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%9B%A8%EC%8A%A4%EC%97%94%EB%8D%94%EC%8A%A8%20%EC%84%BC%ED%84%B0%EC%BB%B4%ED%8D%BC%EC%A7%80%EC%85%98.jpg)
 
