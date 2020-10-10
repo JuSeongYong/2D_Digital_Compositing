@@ -210,6 +210,9 @@ Ex.) 올드보이
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/color.jpg)
+
+
 ---------------------
 
 [출처 : https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level)
