@@ -73,12 +73,9 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 
 - 내화면(on screen)과 외화면(off screen)을 구분하는 것은 프레임(frame)
 - framing을 통해 화면속에 보여지는 것을 선택하거나 배제한다.
-- 프레이밍 시 고려사항 : 크기, 관계, 균형
-  - 크기 : 피사체의 프레임 속 크기가 해당 피사체의 중요성과 관련이 있음
-  - 관계 : 한 장면에서 둘 이상의 캐릭터를 볼 때, 우리는 그들의 관계를 인정
-  - 균형 : "균형잡힌" 프레임은 화면의 왼쪽과 오른쪽에 있는 요소를 포함
 - 2차 프레임(프레임 속의 프레임)을 사용하여 피사체를 집중시킬 수 있음
   ; 단순한 시각적 강조의 기능을 넘어 다양한 의미 작용을 수행하는 이미지 기호
+- 창의적으로 주변 사물을 이용해 프레임을 만들기도 한다.
 
 </code>
 </pre>
@@ -94,6 +91,26 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 ----------------
 #### Linear motif
 
+- 모든 이미지는 심플한 라인으로 표현될 수 있다.
+
+<pre>
+<code>
+
+- 대각선은 아주 Dynamic,  강렬한 느낌을 준다.
+- 수직선은 Less Dynamic, 대각선보다는 약한 강렬함을 준다.
+- 수평선은 Least Dynamic, 정적인 느낌을 준다.
+- 곡선은 미묘한느낌, 안정감을 준다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/linearMotif.jpg)
+
+Linear Motif의 예시 : 화면속에서 바닥과 하늘이 맞닿는 수평선으로 정적인 느낌을 준다.
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/linearMotif_1.jpg)
+
+Linear Motif의 예시 : 화면속 연기의 모양이 대각선으로 표현되며, 강렬한 느낌을 준다.
 
 -------------
 #### Lines and Shapes
@@ -129,3 +146,5 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 [출처 : http://www.readersnews.com/news/articleView.html?idxno=97950](http://www.readersnews.com/news/articleView.html?idxno=97950)
 
 [출처 : http://www.readersnews.com/news/articleView.html?idxno=99967](http://www.readersnews.com/news/articleView.html?idxno=99967)
+
+[출처 : https://lightgamelevel.com/composition/](https://lightgamelevel.com/composition/)
