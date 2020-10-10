@@ -67,6 +67,24 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 ------------------
 #### Framing
 
+----------------
+#### Linear motif
+
+
+-------------
+#### Lines and Shapes
+
+
+-------------
+#### Patterns
+
+
+---------------
+#### Depth
+
+
+
+----------------------
 
 [출처 : https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level)
 
