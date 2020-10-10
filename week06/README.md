@@ -93,6 +93,10 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 
 - 모든 이미지는 심플한 라인으로 표현될 수 있다.
 
+##### Lines and Sahpes
+
+- Lines
+
 <pre>
 <code>
 
@@ -106,15 +110,43 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/linearMotif.jpg)
 
-Linear Motif의 예시 : 화면속에서 바닥과 하늘이 맞닿는 수평선으로 정적인 느낌을 준다.
+Linear Motif(Line)의 예시 : 화면속에서 바닥과 하늘이 맞닿는 수평선으로 정적인 느낌을 준다.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/linearMotif_1.jpg)
 
-Linear Motif의 예시 : 화면속 연기의 모양이 대각선으로 표현되며, 강렬한 느낌을 준다.
+Linear Motif(Line)의 예시 : 화면속 연기의 모양이 대각선으로 표현되며, 강렬한 느낌을 준다.
 
--------------
-#### Lines and Shapes
+- Shapes
 
+<pre>
+<code>
+
+- 삼각형(Triangle)
+  - 삼위일체의 의미(크리스천의 삼위일체)
+  - 긴장감을 일으키는 형태
+  - 스피드함을 가져다 준다.
+  - 공격적이고 위험을 표현
+  
+- 원형(Circle)
+  - 원형은 다양한 감정을 일으킨다.
+  - 원형은 친근한 감정을 유발
+  - 완벽함, 완전함의 의미를 가진다.
+  - 무한함, 영원함을 상징한다.
+  
+- 사각형(Square)
+  - 사각형은 안정감을 준다.
+  - 사각형은 친근함, 믿음, 정직감을 제안한다.
+  - 사각형은 질서와 수학, 합리성, 형식적인 감정을 전해준다.
+  - 사각형은 지표면을 상징한다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%82%BC%EA%B0%81%ED%98%95.jpg)
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%9B%90%ED%98%95.jpg)
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%82%AC%EA%B0%81%ED%98%95.jpg)
 
 -------------
 #### Patterns
