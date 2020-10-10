@@ -194,6 +194,24 @@ Ex.) 올드보이
 
 ----------------------
 
+#### Color in visual languages for storytelling
+
+- 시각언어로써 색깔은 장면안에 조화나 긴장을 형성할 수 있다.
+
+<pre>
+<code>
+
+- 심리적 반응을 이끌어낸다.
+- 중요한 세부 사항에 초점을 맞춘다.
+- 영화 톤 설정
+- 성격 특성을 나타냄
+- 이야기의 변경사항 또는 흐름 표시
+
+</code>
+</pre>
+
+---------------------
+
 [출처 : https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level)
 
 [출처 : https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition](https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition)
