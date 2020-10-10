@@ -144,9 +144,15 @@ Linear Motif(Line)의 예시 : 화면속 연기의 모양이 대각선으로 표
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%82%BC%EA%B0%81%ED%98%95.jpg)
 
+Linear Motif 삼각형
+
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%9B%90%ED%98%95.jpg)
 
+Linear Motif 원형
+
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EB%A6%AC%EB%8B%88%EC%96%B4%EB%AA%A8%ED%8B%B0%ED%94%84%EC%82%AC%EA%B0%81%ED%98%95.jpg)
+
+Linear Motif 사각형
 
 -------------
 #### Patterns
