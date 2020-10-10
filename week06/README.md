@@ -163,6 +163,8 @@ Ex.) 올드보이
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%98%AC%EB%93%9C%EB%B3%B4%EC%9D%B4.jpg)
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%98%AC%EB%93%9C%EB%B3%B4%EC%9D%B41.jpg)
+
 <pre>
 <code>
 
