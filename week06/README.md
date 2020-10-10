@@ -125,3 +125,7 @@ Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 �
 [출처 : https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level](https://www.studiobinder.com/blog/rules-of-shot-composition-in-film/#5-eye-level)
 
 [출처 : https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition](https://www.videomaker.com/article/c02/18610-the-basic-rules-of-composition)
+
+[출처 : http://www.readersnews.com/news/articleView.html?idxno=97950](http://www.readersnews.com/news/articleView.html?idxno=97950)
+
+[출처 : http://www.readersnews.com/news/articleView.html?idxno=99967](http://www.readersnews.com/news/articleView.html?idxno=99967)
