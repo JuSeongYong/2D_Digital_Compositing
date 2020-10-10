@@ -4,3 +4,19 @@
 #### Compostion
 
 - Composition이란 장면의 요소가 카메라 프레임에 배열되는 방식을 말한다. 샷 구성은 의도된 메시지를 전달하기 위한 시각적 요소를 배열하는 것을 말한다.
+
+- Compostion 요소
+
+<pre>
+<code>
+
+- Center compositon
+- Rule of third
+- Framing
+- Linear motif
+- Lines and shpes
+- Patterns
+- Depth
+
+</code>
+</pre>
