@@ -56,7 +56,10 @@ Center Composition의 예시 : 인물을 화면 중앙으로 배치, 완전히 �
 </pre>
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Rule-of-Thirds-Grid-min.jpg)
+
 Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우를 배치함으로써 왼쪽의 여자와 오른쪽의 남자의 극중 위치를 드러냈음
 
+
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/352-C02-Shooting-secondary-1.jpg)
+
 Rule of third의 예시 : 수직선과 수평선의 교차지점에 배우의 눈을 배치
