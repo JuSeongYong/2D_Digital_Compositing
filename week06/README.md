@@ -20,3 +20,21 @@
 
 </code>
 </pre>
+
+-----------------
+#### Center composition
+
+<pre>
+<code>
+
+- 주요 주제에 관심을 끌 수 있는 가장 강력한 방법
+- 피사체를 강조하는 이상적인 방법
+- 샷의 균형과 대칭은 더욱 효과적인 결과를 이끌어냄
+
+</code>
+</pre>
+
+[!Center composition](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/Rules-of-Shot-Composition-Breaking-Rule-of-Thirds-min.jpg)
+
+[!Center composition](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%9B%A8%EC%8A%A4%EC%97%94%EB%8D%94%EC%8A%A8%20%EC%84%BC%ED%84%B0%EC%BB%B4%ED%8D%BC%EC%A7%80%EC%85%98.jpg)
+
