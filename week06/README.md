@@ -157,7 +157,22 @@ Linear Motif 사각형의 예시
 -------------
 #### Patterns
 
+- 영화 속 공간의 그래픽적인 요소인 패턴으로 상징적인 의미를 표현한다.
 
+Ex.) 올드보이
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/week06/images/%EC%98%AC%EB%93%9C%EB%B3%B4%EC%9D%B4.jpg)
+
+<pre>
+<code>
+
+올드보이에서는 반복 패턴들을 사용하여 이 공간들이
+거대한 이우진의 통제, 계획 하에 있는 것이라는 느낌을 주면서
+더 깊은 의도로는 자유의지를 가지고 선택하고 있다고 생각하나 결국은
+통제되고 컨트롤 되는 인간의 운명에 대해서 말하고자 한 것이라고 합니다.
+
+</code>
+</pre>
 ---------------
 #### Depth
 - Depth of field (피사계 심도)
