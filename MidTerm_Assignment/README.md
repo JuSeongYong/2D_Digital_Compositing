@@ -17,7 +17,6 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
 
 ### VFX의 역사
 -------------------------------------------
-### 1900's and 1910's
 
 #### Matte & Double Exposures
 
@@ -52,6 +51,8 @@ The Great Train Robbery (1903)와 The Motorist (1906)와 같은 영화에서 사
 ![대열차 강도](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EB%8C%80%EC%97%B4%EC%B0%A8%EA%B0%95%EB%8F%84.png)
 
 The Great Train Robbery (1903)
+
+----------------------------
 
 #### Matte Painting
 
@@ -100,6 +101,8 @@ Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술
 
 Glass Matte Painting의 예시
 
+---------------------------------------
+
 #### Traveling Matte (이동 매트)
 
 - Black Back Matte
@@ -113,6 +116,7 @@ Glass Matte Painting의 예시
 - 피사체들을 흑백 배경과 대조하여 촬영.
 - 블랙과 화이트 실루엣을 Matte로 사용함.
 - 블루 스크린, 그린 스크린 컴포지팅의 시초.
+- 1920년대 후반에서 1930년대까지 자주 쓰이던 기술.
 
 </code>
 </pre>
@@ -124,4 +128,6 @@ Black Back Matte의 작업 과정
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%841933.gif)
 
 Black Matte를 활용한 예시 - The Invisible Man (1933)
+
+--------------------------
 
