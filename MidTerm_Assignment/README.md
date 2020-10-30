@@ -175,7 +175,7 @@ Rear Projection의 예시 - Flying down to rio (1933)
 <code>
 
 래리버틀러(Larry Butler)가 초기 이동 매트 과정을 개발함.
-The thief of Bagdad (1940)가 대표적인 
+The thief of Bagdad (1940)가 해당 기술이 도입된 대표적인 영화.
 
 - Three strip technicolor process:
 파란 배경에서 촬영된 피사체.
