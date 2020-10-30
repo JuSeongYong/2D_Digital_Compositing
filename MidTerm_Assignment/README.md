@@ -309,12 +309,18 @@ Why Green?
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/sage.jpg)
+
 - 1960년대
 
 컴퓨터 그래픽은 1960년대에 실제로 등장했다.
 당시 컴퓨터 그래픽에서는 현재 초보적인 조작으로 간주되고 있는 안티앨리어싱 선, 원, 커브 드로잉 등이 주로 있었다.
 파라메트릭 곡선과 표면에 대한 Pierre Bézier의 초기 작업이 공개되었고, IBM은 레이 트레이싱의 전구체인 숨겨진 표면과 그림자 알고리즘을 개발했다.
 Doug Englebart는 컴퓨터 마우스를 발명했다.
+
+![Alt : Bezier Curve](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/bezier%20curve.gif)
+
+![Alt : Ray Tracing Algorithm](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/rayTracingAlgorithm.png)
 
 - 1970년대
 
