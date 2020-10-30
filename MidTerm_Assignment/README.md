@@ -16,8 +16,12 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
  </pre>
 
 ### VFX의 역사
+-------------------------------------------
+### 1900's and 1910's
 
-#### VFX의 선구자 - 조르쥬 멜리에(GeorgesMelies)
+#### Matte & Double Exposures
+
+- VFX의 선구자 - 조르쥬 멜리에(GeorgesMelies)
 
 <pre>
 <code>
@@ -32,3 +36,14 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
 ![달세계 여행](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/MoonWorldTrip.jpg)
 
 그의 대표작인 ‘달세계 여행(1902년)’은 이러한 기법 들을 이미 능숙하게 사용하고 있었음을 보여준다.
+
+-  Robert W. Paul and Edwin S. Porter
+
+<pre>
+<code>
+
+매트와 이중노출은 로버트 W.폴과 에드윈 S.포터와 같은 사람들을 통해 계속 발전되었다.
+매트를 사용하여 여러 이미지를 하나의 네거티브에 합성하는 기술은 The Great Train Robby (1903)와 The Motorist (1906)와 같은 영화에서 사용되었다.
+
+</code>
+</pre>
