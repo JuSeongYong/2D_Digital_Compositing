@@ -228,3 +228,6 @@ Blue의 negative와 합치는 과정
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/color-difference-matte-600x774.jpg)
+
+Color Difference Matte Process
