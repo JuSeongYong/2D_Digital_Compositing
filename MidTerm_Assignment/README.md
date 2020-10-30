@@ -242,6 +242,29 @@ Color Difference Matte Process
 
 -----------------------------
 
+- Digital Green Screen
+
+<pre>
+<code>
+
+1990년대 후반, 그린스크린이 블루스크린을 압도하기 시작했고 포스트프로덕션에 사용되기 시작했다.
+
+Why Green?
+- Blue보다 더 싸고 쉽게 조명을 사용할 수 있음.
+- 모니터에서 Green이 Blue, Red보다 더 밝게 나타난다.
+- 야외에서 사용하기 수월함.(blue는 하늘의 색과 비슷함)
+- 필름을 대체하는 디지털카메라는 초록영역에 더 민감하게 반응한다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/bayer.jpg)
+
+디지털 카메라가 필름을 대체하면서, 많은 디지털 센서들은 밝기를 포착하기 위해 빨간색이나 파란색보다 두 배나 많은 녹색 포토마이트를 가진 바이엘 패턴을 사용한다.
+이는 현대 디지털 카메라를 스펙트럼의 녹색 부분에 훨씬 더 민감하게 만들어 그린스크린에서 matte를 조금 더 쉽게 끌어낼 수 있게 한다.
+
+-----------------------------
+
 #### SAGE(Semi-Automatic Ground Environment) : 반자동 방공조직
 
 <pre>
