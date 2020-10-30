@@ -131,3 +131,14 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 
 --------------------------
 
+- Blue Background for B&W Film
+
+<pre>
+<code>
+
+파란 배경 앞에있는 피사체한테 노란조명을 비춘다.
+필터로 파란색을 제거하면 그림자가 있는 이동매트가 나타남.
+흑백 영화에서만 사용 가능.
+
+</code>
+</pre>
