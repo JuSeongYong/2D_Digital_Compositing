@@ -121,3 +121,7 @@ Glass Matte Painting의 예시
 
 이동매트의 작업 과정
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%88%AC%EB%AA%85%EC%9D%B8%EA%B0%841933.gif)
+
+블랙 매트를 활용한 예시 - The Invisible Man (1933)
+
