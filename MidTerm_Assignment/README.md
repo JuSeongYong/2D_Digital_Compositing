@@ -43,7 +43,9 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
 <code>
 
 매트와 이중노출은 로버트 W.폴과 에드윈 S.포터와 같은 사람들을 통해 계속 발전되었다.
-매트를 사용하여 여러 이미지를 하나의 네거티브에 합성하는 기술은 The Great Train Robby (1903)와 The Motorist (1906)와 같은 영화에서 사용되었다.
+매트를 사용하여 여러 이미지를 하나의 네거티브에 합성하는 기술은
+The Great Train Robby (1903)와 The Motorist (1906)와 같은 영화에서 사용되었다.
 
 </code>
 </pre>
+
