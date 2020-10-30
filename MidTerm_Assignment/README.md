@@ -55,12 +55,11 @@ The Great Train Robbery (1903)
 
 #### Matte Painting
 
-- Glass Painting Technique
+- Glass Painting Technique(Glass Shot)
 
 <pre>
 <code>
 
-Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술.
 실제로 촬영하거나 제작하기 힘든 세트를 유리위에 그려서 세트의 일부를 대체하는 기술.
 카메라와 세트,피사체 사이에 유리를 배치하여 촬영한다.
 
@@ -77,13 +76,14 @@ Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/GlassPainting.jpg)
 
-글래스 페인팅 촬영 예시
+글래스 페인팅 촬영(Glass Shot) 예시
 
 - Glass Matte Painting
 
 <pre>
 <code>
 
+Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술.
 세트에서는 매트페인팅부분을 매트 샷처럼 검은색으로 칠했다.
 매트된 필름은 매트 페인팅 아티스트들이 실사 촬영에 맞게 비율과 관점을 맞추어 두 번째 스틸 카메라로 옮겨졌다.
 
@@ -93,3 +93,7 @@ Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술
 
 </code>
 </pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/glass%20matte%20painting.jpg)
+
+Glass Matte Painting의 예시
