@@ -122,6 +122,10 @@ Glass Matte Painting의 예시 - Ben-Hur (1959)
 </code>
 </pre>
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/digitalMattePainting.gif)
+
+Digital Matte Painting의 과정
+
 ---------------------------------------
 
 #### Traveling Matte (이동 매트) / Chroma Key
@@ -309,3 +313,4 @@ Why Green?
 
 [출처 : https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/](https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/)
 
+[출처 : https://anomaniac.wordpress.com/matte-painting-and-environments/](https://anomaniac.wordpress.com/matte-painting-and-environments/)
