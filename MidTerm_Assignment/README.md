@@ -102,6 +102,8 @@ Glass Matte Painting의 예시
 
 #### Traveling Matte (이동 매트)
 
+- Black Back Matte
+
 <pre>
 <code>
 
