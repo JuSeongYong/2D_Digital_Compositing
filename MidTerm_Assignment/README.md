@@ -129,7 +129,7 @@ Black Back Matte의 작업 과정
 
 Black Matte를 활용한 예시 - The Invisible Man (1933)
 
---------------------------
+
 
 - Blue Background for B&W Film
 
@@ -148,7 +148,7 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 
 흑백영화에서 블루스크린을 사용한 예시 KingKong - (1933)
 
-----------------------------
+
 
 - Rear Projection (후면 영사)
 
@@ -168,7 +168,7 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 
 Rear Projection의 예시 - Flying down to rio (1933)
 
-------------------------
+
 
 - Blue Background for Color Film
 
@@ -202,7 +202,7 @@ Blue Background for Color Film Process
 
  요즘날에도 쓰이는 Chroma Key의 시초.
  
-----------------------
+
 
 - Sodium Vapor Process
 
@@ -222,7 +222,7 @@ Sodium Vapor Process는 배우들한테는 정상적인 조명을 비추고,
 
 Sodium Vapor Process
 
------------------------
+
 
 - Color Difference Matte
 
@@ -240,7 +240,7 @@ Blue의 negative와 합치는 과정
 
 Color Difference Matte Process
 
------------------------------
+
 
 - Digital Green Screen
 
