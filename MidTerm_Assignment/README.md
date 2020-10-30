@@ -357,3 +357,5 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 [출처 : https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/](https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/)
 
 [출처 : https://anomaniac.wordpress.com/matte-painting-and-environments/](https://anomaniac.wordpress.com/matte-painting-and-environments/)
+
+[출처 : https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/](https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/)
