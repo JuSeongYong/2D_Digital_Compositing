@@ -99,3 +99,7 @@ Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/glass%20matte%20painting.jpg)
 
 Glass Matte Painting의 예시
+
+#### Traveling Matte (이동 매트)
+
+
