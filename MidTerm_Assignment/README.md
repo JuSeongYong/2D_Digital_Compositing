@@ -278,3 +278,9 @@ Why Green?
 
 ---------------------
 
+------------------------------
+
+[출처 : https://laurabrandist94.wordpress.com/2014/03/31/hollywoods-history-of-faking-it-the-evolution-of-greenscreen-compositing/](https://laurabrandist94.wordpress.com/2014/03/31/hollywoods-history-of-faking-it-the-evolution-of-greenscreen-compositing/)
+[출처 : http://www.spherevfx.com/the-history-of-computer-graphics-and-effects/](http://www.spherevfx.com/the-history-of-computer-graphics-and-effects/)
+[출처 : http://media.cgland.com/news.html?part=&modes=view&page=435&no=6766&word=](http://media.cgland.com/news.html?part=&modes=view&page=435&no=6766&word=)
+[출처 : https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/](https://prezi.com/zlkohxh1ojxr/short-history-of-compositing/)
