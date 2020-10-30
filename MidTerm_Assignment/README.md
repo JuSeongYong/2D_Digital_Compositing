@@ -53,11 +53,14 @@ The Great Train Robbery (1903)와 The Motorist (1906)와 같은 영화에서 사
 
 The Great Train Robbery (1903)
 
-#### Glass Painting Technique
+#### Matte Painting
+
+- Glass Painting Technique
 
 <pre>
 <code>
 
+Noramn Dawn이 개발한 글라스 숏(Glass Shot)으로 부터 발전된 기술.
 실제로 촬영하거나 제작하기 힘든 세트를 유리위에 그려서 세트의 일부를 대체하는 기술.
 카메라와 세트,피사체 사이에 유리를 배치하여 촬영한다.
 
@@ -70,7 +73,23 @@ The Great Train Robbery (1903)
 </code>
 </pre>
 
-- 글래스 페이팅은 1910년대 부터 현대까지 쓰이게 되며, 매트페인팅의 시초.
+- 글래스 페인팅은 1910년대 부터 현대까지 쓰이게 되며, 매트페인팅의 시초.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/GlassPainting.jpg)
 
+글래스 페인팅 촬영 예시
+
+- Glass Matte Painting
+
+<pre>
+<code>
+
+세트에서는 매트페인팅부분을 매트 샷처럼 검은색으로 칠했다.
+매트된 필름은 매트 페인팅 아티스트들이 라이브 액션 촬영에 대한 비율과 관점을 맞출 수 있게 두 번째 스틸 카메라로 옮겨졌다.
+
+- 저비용 고품질의 영상을 만들 수 있다.
+
+- 글래스 매트 페인팅은 할리우드의 황금기에 지속적으로 사용되어지고, 기술이 발전되어 오늘날의 디지털시대에도 사용된다.
+
+</code>
+</pre>
