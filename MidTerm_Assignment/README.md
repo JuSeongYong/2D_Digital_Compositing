@@ -110,6 +110,7 @@ Glass Matte Painting의 예시
 
 - 피사체들을 흑백 배경과 대조하여 촬영.
 - 블랙과 화이트 실루엣을 Matte로 사용함.
+- 블루 스크린, 그린 스크린 컴포지팅의 시초.
 
 </code>
 </pre>
@@ -117,3 +118,4 @@ Glass Matte Painting의 예시
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EC%9D%B4%EB%8F%99%EB%A7%A4%ED%8A%B8.jpg)
 
 이동매트의 작업 과정
+
