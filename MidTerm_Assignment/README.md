@@ -44,9 +44,28 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
 
 매트와 이중노출은 로버트 W.폴과 에드윈 S.포터와 같은 사람들을 통해 계속 발전되었다.
 매트를 사용하여 여러 이미지를 하나의 네거티브에 합성하는 기술은
-The Great Train Robby (1903)와 The Motorist (1906)와 같은 영화에서 사용되었다.
+The Great Train Robbery (1903)와 The Motorist (1906)와 같은 영화에서 사용되었다.
 
 </code>
 </pre>
 
 ![대열차 강도](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EB%8C%80%EC%97%B4%EC%B0%A8%EA%B0%95%EB%8F%84.png)
+
+The Great Train Robbery (1903)
+
+#### Glass Painting Technique
+
+<pre>
+<code>
+
+실제로 촬영하거나 제작하기 힘든 세트를 유리위에 그려서 세트의 일부를 대체하는 기술.
+카메라와 세트,피사체 사이에 유리를 배치하여 촬영한다.
+
+- 장점 : 세트 제작 비용 절감
+         Pre-Compositing이 촬영을 통해 완료된다.
+         
+- 단점 : 유리를 촬영장에서 칠해야 했고 촬영이 끝날 때까지 움직일 수 없다.
+         조명의 변화를 반영하지 못 한다.
+
+</code>
+</pre>
