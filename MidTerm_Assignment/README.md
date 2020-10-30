@@ -200,3 +200,16 @@ Blue film stock이 가장 작은 grain으로 구성됨.
 Blue Background for Color Film Process
 
  요즘날에도 쓰이는 Chroma Key의 시초.
+ 
+----------------------
+
+#### SAGE(Semi-Automatic Ground Environment) : 반자동 방공조직
+
+<pre>
+<code>
+
+미국 공군의 NORAD(북미항공우주사령부)에서 1954년부터 가동에 들어간 방공망 관제용의 전산 시스템으로, MIT와 IBM이 중심이 되어 개발된 시스템
+최초의 Interactive Computer Graphic을 제공해줬다.
+
+</code>
+</pre>
