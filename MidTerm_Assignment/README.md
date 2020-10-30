@@ -320,7 +320,11 @@ Doug Englebart는 컴퓨터 마우스를 발명했다.
 
 ![Alt : Bezier Curve](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/bezier%20curve.gif)
 
+  Bezier Curve
+
 ![Alt : Ray Tracing Algorithm](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/rayTracingAlgorithm.png)
+
+  Ray Tracing Algorithm
 
 - 1970년대
 
