@@ -102,4 +102,18 @@ Glass Matte Painting의 예시
 
 #### Traveling Matte (이동 매트)
 
+<pre>
+<code>
 
+글라스 매트 페인팅은 VFX 배경의 표준이 되었지만, 카메라를 움직일 수 없는 점이 문제로 나타남.
+1918년, 프랭크 윌리엄스(Frank Williams)가 위 문제를 해결하고자 Black Back Matte (Traveling Matte)를 개발함.
+
+- 피사체들을 흑백 배경과 대조하여 촬영.
+- 블랙과 화이트 실루엣을 Matte로 사용함.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EC%9D%B4%EB%8F%99%EB%A7%A4%ED%8A%B8.jpg)
+
+이동매트의 작업 과정
