@@ -198,4 +198,4 @@ Blue film stock이 가장 작은 grain으로 구성됨.
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/BlueScreenForColorFilm.jpg)
 
 Blue Background for Color Film Process
-- 요즘날에도 쓰이는 Chroma Key의 시초.
+ 요즘날에도 쓰이는 Chroma Key의 시초.
