@@ -150,7 +150,7 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 
 ----------------------------
 
-#### Rear Projection (후면 영사)
+- Rear Projection (후면 영사)
 
 <pre>
 <code>
@@ -159,6 +159,7 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 반투명한 영사막의 뒤쪽에서 화면이 투영되는 영사 방식.
 정지된 또는 움직이는 배경을 미리 촬영한 후 반투명 영사막 뒤에서 영사하고
 연기자는 이 장면을 배경으로 그 앞에서 연기를 하여 합성 화면을 만드는 촬영기법.
+이동매트를 따로 만들 필요가 없어서 편리했다.
 
 </code>
 </pre>
@@ -169,7 +170,7 @@ Rear Projection의 예시 - Flying down to rio (1933)
 
 ------------------------
 
-#### Blue Background for Color Film
+- Blue Background for Color Film
 
 <pre>
 <code>
@@ -203,20 +204,27 @@ Blue Background for Color Film Process
  
 ----------------------
 
-#### SAGE(Semi-Automatic Ground Environment) : 반자동 방공조직
+- Sodium Vapor Process
 
 <pre>
 <code>
 
-미국 공군의 NORAD(북미항공우주사령부)에서 1954년부터 가동에 들어간 방공망 관제용의 전산 시스템으로, MIT와 IBM이 중심이 되어 개발된 시스템
-최초의 Interactive Computer Graphic을 제공해줬다.
+1950년대 중반 Vlahos가 개발한 기술. 흔히 Yellow Screen으로 부른다.
+Sodium Vapor Process는 배우들한테는 정상적인 조명을 비추고,
+배경의 흰색 스크린에는 Sodium Vapor Light(노랑에서 오렌지색의 빛)를 비추어 촬영,
+코팅된 프리즘을 통해 노랑을 분리시켜 이동매트를 추출하는 방법.
+블루스크린보다 깨끗한 결과를 얻을 수 있지만 노란색이 사람의 피부톤 또한 제외시킬 수 있다는 문제를 초래.
 
 </code>
 </pre>
 
----------------------
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/Sodium%20Vapor%20Process.jpg)
 
-#### Color Difference Matte
+Sodium Vapor Process
+
+-----------------------
+
+- Color Difference Matte
 
 <pre>
 <code>
@@ -231,3 +239,19 @@ Blue의 negative와 합치는 과정
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/color-difference-matte-600x774.jpg)
 
 Color Difference Matte Process
+
+-----------------------------
+
+#### SAGE(Semi-Automatic Ground Environment) : 반자동 방공조직
+
+<pre>
+<code>
+
+미국 공군의 NORAD(북미항공우주사령부)에서 1954년부터 가동에 들어간 방공망 관제용의 전산 시스템으로, MIT와 IBM이 중심이 되어 개발된 시스템
+최초의 Interactive Computer Graphic을 제공해줬다.
+
+</code>
+</pre>
+
+---------------------
+
