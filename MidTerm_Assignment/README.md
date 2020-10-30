@@ -166,3 +166,27 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%9B%84%EB%A9%B4%EC%98%81%EC%82%AC.gif)
 
 Rear Projection의 예시 - Flying down to rio (1933)
+
+------------------------
+
+#### Blue Background for Color Film
+
+<pre>
+<code>
+
+Three strip technicolor process:
+파란 배경에서 촬영된 피사체.
+세가지 technicolor에서 블루의 negative를 분리.
+실루엣으로 이동 매트 생성.
+광학 프린터로 여러 film strip을 하나로 결합.
+
+Why Blue?
+피부톤과 가장 연관이 없는 컬러.
+Blue film stock이 가장 작은 grain으로 구성됨.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/BlueScreenForColorFilm.jpg)
+
+Blue Background for Color Film Process
