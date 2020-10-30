@@ -49,3 +49,4 @@ The Great Train Robby (1903)와 The Motorist (1906)와 같은 영화에서 사�
 </code>
 </pre>
 
+![대열차 강도](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EB%8C%80%EC%97%B4%EC%B0%A8%EA%B0%95%EB%8F%84.png)
