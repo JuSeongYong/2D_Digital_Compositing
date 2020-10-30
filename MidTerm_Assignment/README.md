@@ -174,15 +174,20 @@ Rear Projection의 예시 - Flying down to rio (1933)
 <pre>
 <code>
 
-Three strip technicolor process:
+- Three strip technicolor process:
 파란 배경에서 촬영된 피사체.
 세가지 technicolor에서 블루의 negative를 분리.
 실루엣으로 이동 매트 생성.
 광학 프린터로 여러 film strip을 하나로 결합.
 
-Why Blue?
+- Why Blue?
 피부톤과 가장 연관이 없는 컬러.
 Blue film stock이 가장 작은 grain으로 구성됨.
+
+- 단점
+ - 많은 시간이 소모되는 기술.
+ - 피사체에서 파란색의 흐릿한 가장자리가 나타남.
+ - 세부 디테일에 좋지 않음. (머리카락, 연기, 모션블러)
 
 </code>
 </pre>
