@@ -29,3 +29,5 @@ VFX란 시각적인 특수효과(Visual FX)를 말한다.
 
 </code>
 </pre>
+
+![달세계 여행](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/MoonWorldTrip.jpg)
