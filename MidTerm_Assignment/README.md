@@ -69,3 +69,8 @@ The Great Train Robbery (1903)
 
 </code>
 </pre>
+
+- 글래스 페이팅은 1910년대 부터 현대까지 쓰이게 되며, 매트페인팅의 시초.
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/GlassPainting.jpg)
+
