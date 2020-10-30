@@ -174,6 +174,8 @@ Rear Projection의 예시 - Flying down to rio (1933)
 <pre>
 <code>
 
+래리버틀러(Larry Butler)가 초기 이동 매트 과정을 개발함.
+
 - Three strip technicolor process:
 파란 배경에서 촬영된 피사체.
 세가지 technicolor에서 블루의 negative를 분리.
