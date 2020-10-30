@@ -213,3 +213,18 @@ Blue Background for Color Film Process
 
 </code>
 </pre>
+
+---------------------
+
+#### Color Difference Matte
+
+<pre>
+<code>
+
+1950년대 후반에 Vlahos가 Blue Screen Background의 과정을 발전시킨 형태.
+12개의 negative들이 합쳐지는 과정 : Blue채널의 매트를 Green채널의 매트와 합쳐 Color Difference Matte를 생성,
+Blue의 negative와 합치는 과정
+
+</code>
+</pre>
+
