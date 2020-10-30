@@ -146,4 +146,23 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/King_Kong_Blue_Screen.gif))
 
-흑백영화에서 블루스크린을 사용한 예시 KingKong (1933)
+흑백영화에서 블루스크린을 사용한 예시 KingKong - (1933)
+
+----------------------------
+
+#### Rear Projection (후면 영사)
+
+<pre>
+<code>
+
+1930년대에 도입된 기술.
+반투명한 영사막의 뒤쪽에서 화면이 투영되는 영사 방식.
+정지된 또는 움직이는 배경을 미리 촬영한 후 반투명 영사막 뒤에서 영사하고
+연기자는 이 장면을 배경으로 그 앞에서 연기를 하여 합성 화면을 만드는 촬영기법.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%9B%84%EB%A9%B4%EC%98%81%EC%82%AC.gif)
+
+Rear Projection의 예시 - Flying down to rio (1933)
