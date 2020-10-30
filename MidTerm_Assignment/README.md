@@ -136,9 +136,14 @@ Black Matte를 활용한 예시 - The Invisible Man (1933)
 <pre>
 <code>
 
+1925년 C.Dodge Dunning이 개발한 기술.
 파란 배경 앞에있는 피사체한테 노란조명을 비춘다.
 필터로 파란색을 제거하면 그림자가 있는 이동매트가 나타남.
 흑백 영화에서만 사용 가능.
 
 </code>
 </pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/King_Kong_Blue_Screen.gif))
+
+흑백영화에서 블루스크린을 사용한 예시 KingKong (1933)
