@@ -317,6 +317,7 @@ Why Green?
 당시 컴퓨터 그래픽에서는 현재 초보적인 조작으로 간주되고 있는 안티앨리어싱 선, 원, 커브 드로잉 등이 주로 있었다.
 파라메트릭 곡선과 표면에 대한 Pierre Bézier의 초기 작업이 공개되었고, IBM은 레이 트레이싱의 전구체인 숨겨진 표면과 그림자 알고리즘을 개발했다.
 Doug Englebart는 컴퓨터 마우스를 발명했다.
+CG를 이용한 최초의 영화 <2001스페이스 오딧세이(1968)> 개봉.
 
 ![Alt : Bezier Curve](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/bezier%20curve.gif)
 
@@ -333,6 +334,7 @@ Doug Englebart는 컴퓨터 마우스를 발명했다.
 Xerox PARC는 "Paint" 프로그램을 개발했다.
 Ed Catmull은 z-buffer 알고리즘을 도입했고 Turned Whitted는 recursive ray tracing을 개발했고, 이는 후에 photorealism의 표준이 되었다.
 Pong, Pac-Man과 같은 아케이드 게임은 매우 유명해졌다.
+초창기 CG영화 중 가장 유명한 <스타워즈(1977)>개봉.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/Recursive%2BRay%2BTracing%2BSimulating%2Bglobal%2Blighting%2Beffects%2B(Whitted%2C%2B1979).jpg)
 
@@ -345,6 +347,7 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 3D 소프트웨어의 목표는 단순한 렌더링이 아닌 캐릭터 애니메이션이 되었다.
 어도비는 포토샵 소프트웨어를 시장에 내놓았다.
 비디오 게임은 더 나은 컴퓨터 그래픽과 사용하기 쉬운 소프트웨어에 대한 필요성을 만들어 내는 과정에서 시작되었다.
+전통적인 효과들을 CG로 대체한 첫 작품, 픽사에서 만든 <트론(1982)>개봉.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A7%B5%ED%95%91.jpg)
 
@@ -357,6 +360,7 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 데이터 글로브(data glove)에서 시작된 모션 캡쳐는 애니메이션 시퀀스를 생성하는 일차적인 방법이 되었다.
 터미네이터 2, 쥬라기 공원, 토이 스토리 같은 영화에 그래픽이 영향을 끼치며 그래픽은 어디에나 존재하기 시작했다.
 우리가 21세기로 접어들면서 온라인 CAD 과정을 이용할 수 있게 되었고, 디자인과 기술을 융합하여 건축, 엔지니어링, 그리고 더 많은 분야에서 새로운 변화를 만들었다.
+최초의 풀 3D 장편 애니메이션 디즈니의 <토이스토리(1995)>개봉.
 
 ![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/OpenGL_Linux.png)
 
