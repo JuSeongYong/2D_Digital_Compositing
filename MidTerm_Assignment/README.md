@@ -358,6 +358,8 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 터미네이터 2, 쥬라기 공원, 토이 스토리 같은 영화에 그래픽이 영향을 끼치며 그래픽은 어디에나 존재하기 시작했다.
 우리가 21세기로 접어들면서 온라인 CAD 과정을 이용할 수 있게 되었고, 디자인과 기술을 융합하여 건축, 엔지니어링, 그리고 더 많은 분야에서 새로운 변화를 만들었다.
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/OpenGL_Linux.png)
+
 ---------------------
 
 ------------------------------
