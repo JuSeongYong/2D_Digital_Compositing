@@ -550,3 +550,5 @@ CG 기술은 처음에는 이러한 SFX를 보조하는 수단으로 사용되�
 [출처 : https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/](https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/)
 
 [출처 : http://mrl.snu.ac.kr/courses/CourseAnimation/readings/motion_capture.pdf](http://mrl.snu.ac.kr/courses/CourseAnimation/readings/motion_capture.pdf)
+
+[출처 : https://terms.naver.com/entry.nhn?docId=3434977&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D58460&cid=58460&categoryId=58460](https://terms.naver.com/entry.nhn?docId=3434977&contentsParamInfo=isList%3Dtrue%26navCategoryId%3D58460&cid=58460&categoryId=58460)
