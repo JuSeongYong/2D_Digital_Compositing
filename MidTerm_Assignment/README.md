@@ -389,6 +389,102 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 
 ---------------------
 
+#### Motion Capture(모션 캡처)
+
+<pre>
+<code>
+
+모션 캡쳐(motion capture)는 넓은 의미에서 실세계에서 일어나는 생물, 혹은 무생물의 움직임을 분석 가능한 데이터로 변환하는 과정을 말한다.
+근래에는 좁은 의미에서 실세계의 움직임을 녹화하고 디지탈화하여 컴퓨터로 읽어 들이는 일련의 과정을 모션 캡쳐라 한다. 
+
+</code>
+</pre>
+
+- Motion Capture의 역사
+
+<pre>
+<code>
+
+모션 캡쳐의 역사는 말의 움직임에 관한 1800년대 말의 논란으로부터 시작되었다.
+당시 풍경 사진을 주로 찍던 사진작가 에드워드 머이브리지는 (Eadweard Muybridge) 목장을 소유한 친구로부터 말이 장애물을 넘을 때
+순간적이나마 네 발이 모두 공중에 떠있는 순간이 있는지에 관한 질문을 받았다.
+말의 움직임이 너무 빨랐기 때문에 육안으로는 순간적인 말의 움직임을 정확히 관찰할 수 없었다.
+이 문제를 해결하기 위해 1878년 6월 15일 머이브릿지는 24대의 스틸 카메라를 일렬로 늘어놓고
+일정한 시간 간격으로 셔터를 격발시켜 장애물을 넘는 말의 움직임을 일련의 사진에 담는데 성공한다.
+이는 동작 분석을 위한 최초의 모션 캡쳐이자 이후 활동 사진 및 영화의 발명으로 이어지는 시발점이기도 했다. 
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EB%A7%90.jpg)
+
+- Rotoscope(로토스코프)
+
+<pre>
+<code>
+
+초창기의 모션 캡쳐는 컴퓨터의 도움 없이 수작업으로 이루어졌다.
+대표적인 예가 1915년 맥스 플레이셔(Max Fleicher)에 의해 고안된 로토스코프(rotoscope)라는 방법으로 애니메이션
+제작 시에 실제 사람의 움직임을 연속 사진에 담고 이를 그림판에 투영시켜 애니메이터로 하여금 윤곽선을 따라 그림을 그리도록 한다.
+이러한 방식을 사용하면 매우 사실적인 움직임을 애니메이션으로 재현할 수 있어 애니메이션 제작에 폭 넓게 활용되었다.
+디지니의 초창기 애니메이션인 “백설공주”에서 로토스코프가 활용되었고, 최근에는 “아나스타샤”에서 실사 영화와 같은 느낌의 애니메이션을 제작하는데 사용되었다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/Rotoscope.png)
+
+- 최초의 광학식(optical) 모션 캡쳐
+
+<pre>
+<code>
+
+모션 캡쳐는 이후 군사, 의료 목적으로 꾸준히 활용되어 왔으며, 본격적으로 컴퓨터 애니메이션에 활용되기 시작한 것은
+1985년 로버트 아벨(Robert Abel)에 의해 제작된 텔레비전 광고 “브릴리언스(Brilliance)”에 등장하는 여성형 로봇의 애니메이션을 위해서였다.
+은빛의 반짝이는 금속 재질과 사실적인 움직임으로 이 로봇 애니메이션은 당시 대단한 관심을 끌었다.
+아벨은 로봇의 움직임을 얻기 위해 연기자에게 흰색의 레오타드를 입히고 18개의 주요 관절 부위를 검정색으로 표시한 뒤 연기자의 움직임을
+여러 대의 비디오 카메라로 녹화하여 검정색 표시의 3차원 좌표를 계산하였다. 
+아벨이 시도한 방식은 최초의 광학식(optical) 모션 캡쳐로 기록.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/robertAbel.jpg)
+
+- Mike the talking head
+
+<pre>
+<code>
+
+1988년 실리콘 그래픽스(Silicon graphics, Inc)와 드그라프-워먼(deGraf-Wahrman,Inc)에 의해 개발된 “Mike the talking head”는
+얼굴 표정 캡쳐를 이용하여 실시간 얼굴 애니메이션이 가능함을 보여주었다.
+실제 사람 마이크 그리블(MikeGribble)이 각각의 음소를 발음하는 얼굴을 3차원 스캔하여 다면체(polygon)으로 이루어진 얼굴 모델을
+얻고 음소에 해당되는 표정들을 보간(interpolate)하여 사실적인 얼굴 애니메이션을 얻었다. 
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/Mike_the_talking_head_.png)
+
+- Motion Capture의 발전과 방법
+
+<pre>
+<code>
+
+모션 캡쳐를 위해서 3차원 공간 상의 위치와 방향을 측정하기 위한 다양한 방법들이 개발되어 왔다.
+대표적인 방법으로는 비디오 카메라를 이용한 광학식 (optical) 방법과 전자기장을 이용하는 전자기식 (electro-magnetic) 방법이 있다.
+그 외에도 기계식과 음향을 이용한 방법, 그리고 광섬유(optical fiber)를 이용한 방식들이 연구되어왔다.
+이러한 여러 방식들은 서로 다른 장단점을 가지며 응용 분야에 따라 적절한 방식이 선택된다.
+
+모션캡쳐와 애니메이션
+- 녹화된 동작 데이터를 캐릭터에 적용하여 애니메이션을 제작하기 위해서는 녹화된 데이터를 그대로 사용하기 보다는 수정하고 변형해야 하는 것이 일반적
+- 애니메이터가 의도적으로 동작 데이터를 수정, 편집하여 원하는 동작을 만들어낸다.
+
+</code>
+</pre>
+
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%EB%AA%A8%EC%85%98%EC%BA%A1%EC%B3%90.gif)
+
 ------------------------------
 
 [출처 : https://laurabrandist94.wordpress.com/2014/03/31/hollywoods-history-of-faking-it-the-evolution-of-greenscreen-compositing/](https://laurabrandist94.wordpress.com/2014/03/31/hollywoods-history-of-faking-it-the-evolution-of-greenscreen-compositing/)
@@ -402,3 +498,5 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 [출처 : https://anomaniac.wordpress.com/matte-painting-and-environments/](https://anomaniac.wordpress.com/matte-painting-and-environments/)
 
 [출처 : https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/](https://www.digitalschool.ca/a-history-of-computer-graphic-modeling/)
+
+[출처 : http://mrl.snu.ac.kr/courses/CourseAnimation/readings/motion_capture.pdf](http://mrl.snu.ac.kr/courses/CourseAnimation/readings/motion_capture.pdf)
