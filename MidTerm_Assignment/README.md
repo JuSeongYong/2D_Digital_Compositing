@@ -334,6 +334,8 @@ Xerox PARC는 "Paint" 프로그램을 개발했다.
 Ed Catmull은 z-buffer 알고리즘을 도입했고 Turned Whitted는 recursive ray tracing을 개발했고, 이는 후에 photorealism의 표준이 되었다.
 Pong, Pac-Man과 같은 아케이드 게임은 매우 유명해졌다.
 
+![https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/Recursive%2BRay%2BTracing%2BSimulating%2Bglobal%2Blighting%2Beffects%2B(Whitted%2C%2B1979).jpg)
+
 - 1980년대
 
 1980년대 중반에 가까운 시기에 Jim Blinn은 blobby models와 텍스처 맵핑 개념을 도입했다.
