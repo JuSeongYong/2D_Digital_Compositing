@@ -344,6 +344,8 @@ Computer Aided Design 강좌를 여러 대학에서 가르치기 시작했다.
 어도비는 포토샵 소프트웨어를 시장에 내놓았다.
 비디오 게임은 더 나은 컴퓨터 그래픽과 사용하기 쉬운 소프트웨어에 대한 필요성을 만들어 내는 과정에서 시작되었다.
 
+![Alt](https://github.com/JuSeongYong/2D_Digital_Compositing/blob/master/MidTerm_Assignment/Images/%ED%85%8D%EC%8A%A4%EC%B2%98%EB%A7%B5%ED%95%91.jpg)
+
 - 1990년대
 
 1992년에 OpenGL은 그래픽 API(Application Program Interface : 운영체제와 응용프로그램 사이의 통신에 사용되는 언어나 메시지 형식)의 표준이 되었다.
